@@ -20,6 +20,10 @@ Note: GitHub Flavored Markdown used in the Readme doesn't support background col
 	</tr>
 </table>
 
+### Fonts
+
+GraphQL uses [Rubik 300](https://fonts.google.com/specimen/Rubik?sidebar.open=true&selection.family=Rubik:wght@300&preview.text=GraphQL&preview.text_type=custom), freely available under the Open Font License.
+
 ### Logos
 
 #### GraphQL
