@@ -1,4 +1,4 @@
-## GraphQL Foundation Artwork and Logos
+# GraphQL Foundation Artwork and Logos
 
 Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.
 
@@ -128,3 +128,13 @@ GraphQL uses [Rubik 300](https://fonts.google.com/specimen/Rubik?sidebar.open=tr
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@graphql.org](mailto:info@graphql.org).
+
+# Contributing to this repo
+
+This repository is managed by EasyCLA. Project participants must sign the free ([GraphQL Specification Membership agreement](https://preview-spec-membership.graphql.org) before making a contribution. You only need to do this one time, and it can be signed by [individual contributors](http://individual-spec-membership.graphql.org/) or their [employers](http://corporate-spec-membership.graphql.org/).
+
+To initiate the signature process please open a PR against this repo. The EasyCLA bot will block the merge if we still need a membership agreement from you.
+
+You can find [detailed information here](https://github.com/graphql/graphql-wg/tree/main/membership). If you have issues, please email [operations@graphql.org](mailto:operations@graphql.org).
+
+If your company benefits from GraphQL and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [GraphQL Foundation](https://foundation.graphql.org/join).
