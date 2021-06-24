@@ -135,6 +135,57 @@ GraphQL uses [Rubik 300](https://fonts.google.com/specimen/Rubik?sidebar.open=tr
     </tr>
 </table>
 
+#### GraphiQL
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="./GraphiQL/horizontal/GraphiQL-logo.png" width="200"></td>
+        <td><img src="./GraphiQL/stacked/GraphiQL-logo-stacked.png" width="95"></td>
+        <td><img src="./GraphQL/icon/GraphQL-mark.png" width="75"></td>
+        <td><img src="./GraphiQL/horizontal/GraphiQL-logo.svg" width="200"></td>
+        <td><img src="./GraphiQL/stacked/GraphiQL-logo-stacked.svg" width="95"></td>
+        <td><img src="./GraphQL/icon/GraphQL-mark.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="./GraphiQL/horizontal/GraphiQL-logo-black.png" width="200"></td>
+        <td><img src="./GraphiQL/stacked/GraphiQL-logo-stacked-black.png" width="95"></td>
+        <td><img src="./GraphQL/icon/GraphQL-mark-black.png" width="75"></td>
+        <td><img src="./GraphiQL/horizontal/GraphiQL-logo-black.svg" width="200"></td>
+        <td><img src="./GraphiQL/stacked/GraphiQL-logo-stacked-black.svg" width="95"></td>
+        <td><img src="./GraphQL/icon/GraphQL-mark-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="./GraphiQL/horizontal/GraphiQL-logo-white.png" width="200"></td>
+        <td><img src="./GraphiQL/stacked/GraphiQL-logo-stacked-white.png" width="95"></td>
+        <td><img src="./GraphQL/icon/GraphQL-mark-white.png" width="75"></td>
+        <td><img src="./GraphiQL/horizontal/GraphiQL-logo-white.svg" width="200"></td>
+        <td><img src="./GraphiQL/stacked/GraphiQL-logo-stacked-white.svg" width="95"></td>
+        <td><img src="./GraphQL/icon/GraphQL-mark-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
+
 ## Contributing to this repo
 
 This repository is managed by EasyCLA. Project participants must sign the free ([GraphQL Specification Membership agreement](https://preview-spec-membership.graphql.org) before making a contribution. You only need to do this one time, and it can be signed by [individual contributors](http://individual-spec-membership.graphql.org/) or their [employers](http://corporate-spec-membership.graphql.org/).
