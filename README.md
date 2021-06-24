@@ -2,6 +2,16 @@
 
 Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.
 
+## Using the GraphQL name and logo
+
+The GraphQL trademark is managed by The GraphQL Foundation. Use of any trademark or logo is subject to the trademark policy available at [lfprojects.org/policies/trademark-policy](https://lfprojects.org/policies/trademark-policy/).
+
+Please note that certain uses of the GraphQL mark are pre-approved, such as factual references to the project. Other uses require permission first, such as creating stickers or apparel for sale, using the word GraphQL in domain names, or using the mark on printed materials, to name a few. You can find a more comprehensive list in the [trademark policy](https://lfprojects.org/policies/trademark-policy/).
+
+Please email [info@graphql.org](mailto:info@graphql.org) with any questions or requests.
+
+Questions? Please email [info@graphql.org](mailto:info@graphql.org).
+
 ### Color Palette
 
 <table style="text-align:center">
@@ -125,11 +135,7 @@ GraphQL uses [Rubik 300](https://fonts.google.com/specimen/Rubik?sidebar.open=tr
     </tr>
 </table>
 
-Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
-
-Questions? Please email [info@graphql.org](mailto:info@graphql.org).
-
-# Contributing to this repo
+## Contributing to this repo
 
 This repository is managed by EasyCLA. Project participants must sign the free ([GraphQL Specification Membership agreement](https://preview-spec-membership.graphql.org) before making a contribution. You only need to do this one time, and it can be signed by [individual contributors](http://individual-spec-membership.graphql.org/) or their [employers](http://corporate-spec-membership.graphql.org/).
 
